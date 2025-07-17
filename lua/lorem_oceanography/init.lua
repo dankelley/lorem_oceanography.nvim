@@ -1,7 +1,7 @@
 local M = {}
 M.setup = function()
-    print("I am in setup() for lorem_oceanography")
+    print("In setup() for lorem_oceanography")
 end
 
-print("in lorem_oceanography")
+print("In lorem_oceanography, after setup()")
 return M
